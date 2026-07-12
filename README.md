@@ -138,17 +138,38 @@ http://localhost/products/
 
 ## Screenshots
 
+
 ### Login Page
 
-
+![Login Page](screenshots/Login-Page.png)
 
 ### Admin Dashboard
 
-*(Add Screenshot)*
+![Admin Dashboard](screenshots/Admin-Dashboard.png)
 
 ### Add Product
 
-*(Add Screenshot)*
+![Add Product](screenshots/Add-Product.png)
+
+### Product Details
+
+![Product Details](screenshots/Product-Details.png)
+
+### Categories Table
+
+![Categories Table](screenshots/categories-sql.png)
+
+### Subcategories Table
+
+![Subcategories Table](screenshots/subcategories-sql.png)
+
+### Product Table
+
+![Product Table](screenshots/products-sql.png)
+
+### User Table
+
+![User Table](screenshots/user-sql.png)
 
 ---
 
